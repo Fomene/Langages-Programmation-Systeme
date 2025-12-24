@@ -41,5 +41,4 @@ Le document **Rapport.docx** fournit une discussion approfondie, les mesures chr
 | **C++** | `g++ programmeX.cpp -O2 -o progX` suivi de `./progX` |
 | **Java** | `javac programme5.java` suivi de `java programme5` |
 
----
-**Développeur : Wiston Fomene**
+
